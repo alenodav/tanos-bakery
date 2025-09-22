@@ -5,5 +5,5 @@ The aim of this project was to create a management system for Tano's bakery, we 
 Where he, Tano, could delete, add, and update some products of his bakery shop.</h7>
 
 <p align="left">
-  Check my socials <a href="https://docs.google.com/document/d/1I-B4176yiKnvneBJdXa1sfvtUQMJCAzrzRVE8LcR7wY/edit?tab=t.0#heading=h.2gy6wn5q09ei" target="_blank">here</a>.
+  Check the assignment <a href="https://docs.google.com/document/d/1I-B4176yiKnvneBJdXa1sfvtUQMJCAzrzRVE8LcR7wY/edit?tab=t.0#heading=h.2gy6wn5q09ei" target="_blank">here</a>.
 </p>
